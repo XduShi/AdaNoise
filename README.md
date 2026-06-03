@@ -52,19 +52,6 @@ AdaNoise consistently achieves superior quantitative performance across multiple
 
 Visual comparisons demonstrate that AdaNoise generates images with enhanced semantic consistency, richer textures, and improved visual fidelity.
 
----
-
-# Visualization Results
-
-## Noise Distribution Analysis
-
-<p align="center">
-  <img src="figures/noise_vis.png" width="95%">
-</p>
-
-Visualization of domain-adaptive noise perturbations learned by the DANP module.
-
----
 
 # Environment
 
